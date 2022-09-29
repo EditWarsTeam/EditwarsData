@@ -1,0 +1,9 @@
+BERTopic==v0.11
+sentence-transformers
+nltk
+sklearn
+hdbscan
+umap-learn
+pymorphy2
+google-cloud-translate==2.0.1
+spacy

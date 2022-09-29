@@ -1,0 +1,8 @@
+matplotlib
+pandas
+seaborn
+wordcloud
+pymorphy2
+tqdm
+sklearn
+nltk
