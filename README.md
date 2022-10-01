@@ -23,3 +23,9 @@ Clusters.ipynb collects info about topic in united DataFrame, gets data with all
 ### <b>Pre research</b>
 Directory "Pre research" contains Ipynb-files with numbers of most popular words in headlines, images of wordclouds with slipping the time and K-Means clustering model. 
 <br> Also it has Media_types.csv file based on manually categorisation for relevant and non-relevant media for research. 
+
+***
+### <b>Tableau dashboards</b>
+[Word Connections in Russian Media Newsheaders](https://public.tableau.com/app/profile/viacheslav.romanov/viz/WordConnectionsinRussianMediaNewsheaders01_01_22-31_07_22EditWars-Mediafutures/WordcloudDoubleDash) - Tableau Public Dashboard based on the Word connections dataset for analysing context building word clouds for root and subordinate words. Allows filtering values based on regular expressions and manual selection. Contains machine translation of text from Russian to English.
+
+[Word Mentions Analysis Graph](https://public.tableau.com/app/profile/viacheslav.romanov/viz/Mediafutures-cleaneddata540k/dailycountnostack) - Tableau Public worksheets based on the filtered dataset of selected Russian-language media assets publications. Allows building daily or weekly bar charts based on the content of the text element in the title of the publication. Allows filtering values based on regular expressions, logical operators (AND, OR) and accessing the original publication via URL. 
