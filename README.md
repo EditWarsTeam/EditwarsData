@@ -1,5 +1,5 @@
 ## Edit Wars Project 
-[Data based art research](https:/editwars.org), studying special aspects of Russian propaganda and media situation in Russia regarding the invasion in Ukraine 2022 and current war.
+[Data based art research](https://editwars.org/), studying special aspects of Russian propaganda and media situation in Russia regarding the invasion in Ukraine 2022 and current war.
 
 By using [GDELT Global Difference Graph (GDG)](https://blog.gdeltproject.org/announcing-the-gdelt-global-difference-graph-gdg-planetary-scale-change-detection-for-the-global-news-media/) databases, we analyzed more than 250,000 newsheaders of Russian-language media publications. We used machine learning tools (in particular, the [BERTopic algorithm](https://maartengr.github.io/BERTopic/index.html)) to thematically clusterize data and to obtain relevant topics with the dynamics of their change. Additionally, we also applied [Tableau](https://www.tableau.com) to discover typical words and phrases of propaganda. Finally, we extracted word connections in headlines and visualized the resulting network graph using [Spacy library](https://spacy.io).
 ***
